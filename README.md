@@ -35,7 +35,7 @@ Add to `.bashrc` or `.zshrc`
 
 ```bash
 alias cursor='~/Applications/cursor.AppImage --no-sandbox'
-
+```
 
 7. Create shortcut on App Desktop
 
